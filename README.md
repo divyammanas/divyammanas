@@ -1,4 +1,4 @@
-Hi there! I'm Divyam! 👋
+# Hi there! I'm Divyam! 👋
 
 🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast | B.Tech CSE Student
 
