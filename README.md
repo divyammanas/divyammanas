@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi there, I'm Divyam Manas 👋
+🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast | B.Tech CSE Student
 
-<!--
-**divyammanas/divyammanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering student at Bennett University with a passion for building impactful web applications and continuously expanding my technical skill set.
 
-Here are some ideas to get you started:
+Currently, I'm focused on Full Stack Development using the MERN Stack while strengthening my foundations in Data Structures & Algorithms, Git, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming ideas into practical projects and actively participate in hackathons, coding events, and technical competitions.
+
+## 🚀 Currently Learning
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- MongoDB
+
+## 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Java
+
+## 🎯 Goals
+- Become a Full Stack Developer
+- Improve DSA in Java
+- Build Real-World Projects
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/divyammanas7/
+- Gmail: divyammanas7@gmail.com
+
+⭐ Thanks for visiting my profile! I'm continuously learning and building new projects.
