@@ -1,4 +1,5 @@
 Hi there, I'm Divyam Manas 👋
+
 🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast | B.Tech CSE Student
 
 I'm a Computer Science Engineering student at Bennett University with a passion for building impactful web applications and continuously expanding my technical skill set.
