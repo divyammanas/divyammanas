@@ -1,4 +1,4 @@
-Hi there, I'm Divyam Manas 👋
+𝑯𝒊 𝒕𝒉𝒆𝒓𝒆, 𝑰'𝒎 𝑫𝒊𝒗𝒚𝒂𝒎 𝑴𝒂𝒏𝒂𝒔 👋
 
 🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast | B.Tech CSE Student
 
