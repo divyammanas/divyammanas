@@ -28,8 +28,13 @@ I enjoy transforming ideas into practical projects and actively participate in h
 - Improve DSA in Java
 - Build Real-World Projects
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/divyammanas7/
-- Gmail: divyammanas7@gmail.com
+## 🌐 Coding Profiles
 
+[![HackerRank Java 3 Star](https://img.shields.io/badge/HackerRank-Java%203★-00EA64?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/divyammanas7)
+[![HackerRank Python 3 Star](https://img.shields.io/badge/HackerRank-Python%203★-00EA64?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/divyammanas7)
+
+- HackerRank: https://www.hackerrank.com/profile/divyammanas7
+- GitHub: https://github.com/divyammanas
+- LinkedIn: https://www.linkedin.com/in/divyam-manas-55483829a/
+- Gmail-divyammanas7@gmail.com
 ⭐ Thanks for visiting my profile! I'm continuously learning and building new projects.
