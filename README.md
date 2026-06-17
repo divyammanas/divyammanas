@@ -28,27 +28,18 @@ I enjoy transforming ideas into practical projects and actively participate in h
 - Improve DSA in Java
 - Build Real-World Projects
 
-## 🌐 Coding Profiles
+### 🏆 Coding Achievements
 
-## 🏆 HackerRank
+- ☕ Java ★★★ on HackerRank
+- 🐍 Python ★★★ on HackerRank
+- 💻 MERN Stack Developer
+- 🤖 Exploring AI & Agentic AI
 
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/divyammanas7">
-    <img src="https://img.shields.io/badge/Java-3★-00EA64?style=for-the-badge&logo=openjdk&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/divyammanas7">
-    <img src="https://img.shields.io/badge/Python-3★-00EA64?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-</p>
+### 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/divyammanas7">
-    View My HackerRank Profile
-  </a>
-</p>
-</br>
-- HackerRank: https://www.hackerrank.com/profile/divyammanas7
-- GitHub: https://github.com/divyammanas
-- LinkedIn: https://www.linkedin.com/in/divyam-manas-55483829a/
-- Gmail-divyammanas7@gmail.com
+- 🔗 HackerRank: https://www.hackerrank.com/profile/divyammanas7
+- 💻 GitHub: https://github.com/divyammanas
+- 💼 LinkedIn: https://www.linkedin.com/in/divyam-manas-55483829a/
+- 📧 Email: divyammanas7@gmail.com
+
 ⭐ Thanks for visiting my profile! I'm continuously learning and building new projects.
