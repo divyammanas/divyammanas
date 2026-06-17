@@ -30,18 +30,23 @@ I enjoy transforming ideas into practical projects and actively participate in h
 
 ## 🌐 Coding Profiles
 
-[## 🏆 HackerRank Badges
+## 🏆 HackerRank
 
 <p align="center">
-  <img src="./assets/java-3star.svg" width="170" alt="Java 3 Star"/>
-  <img src="./assets/python-3star.svg" width="170" alt="Python 3 Star"/>
+  <a href="https://www.hackerrank.com/profile/divyammanas7">
+    <img src="https://img.shields.io/badge/Java-3★-00EA64?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/divyammanas7">
+    <img src="https://img.shields.io/badge/Python-3★-00EA64?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/divyammanas7">
-    🔗 View My HackerRank Profile
+    View My HackerRank Profile
   </a>
 </p>
+</br>
 - HackerRank: https://www.hackerrank.com/profile/divyammanas7
 - GitHub: https://github.com/divyammanas
 - LinkedIn: https://www.linkedin.com/in/divyam-manas-55483829a/
