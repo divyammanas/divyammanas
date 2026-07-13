@@ -2,7 +2,7 @@
 
 🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast | B.Tech CSE Student
 
-I'm a Computer Science Engineering student at Bennett University with a passion for building impactful web applications and continuously expanding my technical skill set.
+I'm a Computer Science Engineer  with a passion for building impactful web applications and continuously expanding my technical skill set.
 
 Currently, I'm focused on Full Stack Development using the MERN Stack while strengthening my foundations in Data Structures & Algorithms, Git, and Software Development.
 
